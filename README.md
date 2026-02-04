@@ -8,9 +8,8 @@ The project was developed by the Optimization Techniques course in the Master in
 ## How to Run
 
 1. Clone or download this repository
-2. Ensure you have Python 3.9+ installed
-3. Install required dependencies (see below)
-4. Open the notebook:
+2. Ensure you have Python 3.9+ installed and required dependencies
+3. Open the notebook:
 
 ```bash
 jupyter notebook ising_model_notebook.ipynb
